@@ -4,3 +4,7 @@ In  this challenge, we were given starter code. The goal of this challenge was t
 *Repository was given a unique name.
 * The starter code was refactored with semantic elements & tags without changing the structure of the starter code.
 * Title was added to the page describing what the page is about.
+
+Attached is a link to my deployed url, code and githublinks  https://awele1111.github.io/challenge-1-real/
+
+https://github.com/Awele1111/challenge-1-real
