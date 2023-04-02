@@ -16,6 +16,8 @@ Attached is a screenshot of how my deployed application looks
 
 
 
-Attached is a link to my deployed url, code and githublinks  https://awele1111.github.io/challenge-1-real/
+Attached is a link to my deployed url, code and githublinks  
 
-https://github.com/Awele1111/challenge-1-real
+https://github.com/Awele1111/Code-refactoring
+
+https://awele1111.github.io/Code-refactoring/
