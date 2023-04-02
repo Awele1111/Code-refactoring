@@ -8,9 +8,7 @@ In  this challenge, we were given starter code. The goal of this challenge was t
 Attached is a screenshot of how my deployed application looks
 
 ![Refactored](Screenshot/Portfolio4.png)
-
 ![Refactored](Screenshot/portfolio4b.png)
-
 ![Refactored](Screenshot/Portfolio4c.png)
 
 
