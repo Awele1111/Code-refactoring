@@ -9,7 +9,7 @@ Attached is a screenshot of how my deployed application looks
 
 ![Refactored](Screenshot/Portfolio4.png)
 
-![Refactored](Screenshot/Portfolio4b.png)
+![Refactored](Screenshot/portfolio4b.png)
 
 ![Refactored](Screenshot/Portfolio4c.png)
 
