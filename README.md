@@ -5,7 +5,7 @@ In  this challenge, we were given starter code. The goal of this challenge was t
 * The starter code was refactored with semantic elements & tags without changing the structure of the starter code.
 * Title was added to the page describing what the page is about.
 
-Attached is a screenshot of how my deployed application looks
+The images below are three screenshots of how my deployed application looks
 
 ![Refactored](Screenshot/Portfolio4.png)
 ![Refactored](Screenshot/portfolio4b.png)
