@@ -1,13 +1,18 @@
+/* This CSS property applies to all elements in the document, setting the box-sizing to border-box, padding and margin to 0. */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+
 }
 
+/* Sets the background color of the body element to a light gray. */
 body {
     background-color: #d9dcd6;
 }
 
+/* Styles for the header section. Sets padding, font family, background color, and text color. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +20,18 @@ body {
     color: #ffffff;
 }
 
+/* Styles for the h1 element within the header. Sets display to inline-block and font size to 48px. */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Styles for the .seo class within the h1 element in the header. Sets text color to light gray. */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Styles for the navigation within the header. Sets padding, margin, float, font family, and font size. */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +40,29 @@ body {
     font-size: 20px;
 }
 
+/* Styles for the unordered list within the navigation. Removes bullets from list items. */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Styles for list items within the unordered list in the navigation. Sets display to inline-block and adds margin to the left. */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Styles for all links. Sets color to white and removes underlines. */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Styles for all paragraphs. Sets font size to 16px. */
 p {
     font-size: 16px;
 }
 
+/* Styles for the hero section. Sets height, width, margin-bottom, background image, size, and position. */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +72,26 @@ p {
     background-position: center;
 }
 
+/* Styles for floating elements to the left. Sets float to left and margin to the right. */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Styles for floating elements to the right. Sets float to right and margin to the left. */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Styles for the content section. Sets width, display, and margin to the left. */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Styles for the benefits section. Sets margin, padding, clear, float, width, height, font family, background color, and text color. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +103,7 @@ p {
     background-color: #2589bd;
 }
 
+/* styles for benefits section */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -134,6 +152,7 @@ p {
     max-width: 150px;
 }
 
+/* Styles for service sections */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +180,7 @@ p {
     color: #ffffff;
 }
 
+/* Styles for service section images, setting the max heights to 200px */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -178,6 +198,7 @@ p {
     font-size: 36px;
 }
 
+/* Styles for service section headings, by setting the margin towards the bottom and the font-sizes */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -188,6 +209,7 @@ p {
     font-size: 36px;
 }
 
+/* Styles for footer section */
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +217,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* Styles for footer section heading, I changed it from h3 to h4 to match the semantic changes in the html file, it is setting the font of the h4 text at the footer to 20px */
+.footer h4 {
     font-size: 20px;
-}
+} 
